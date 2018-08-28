@@ -178,4 +178,11 @@
     "label": "Madrid",
     "loc": {"lat": 40.4156, "lng": -3.7063},
     "email": "madrid@serverlessdays.io"
+},{
+    "label": "New-York",
+    "loc": {"lat": 33.7493, "lng": -84.3855},
+    "email": "nyc@serverlessdays.io"
+    "website": "https://nyc.serverlessdays.io",
+    "date": "30 Oct 2018",
+    "image": "https://res.cloudinary.com/serverlessdaystlv/image/upload/c_scale,h_280,w_280/v1522754132/tlv.jpg
 }]
